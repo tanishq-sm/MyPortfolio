@@ -133,7 +133,7 @@ export const experiences = [
     company_name: "Universal",
     icon: tesla,
     iconBg: "#fbc3bc",
-    date: "10th May 2024 - 9th July 2022",
+    date: "10th May 2024 - 9th July 2024",
     points: [
       "Developing and maintaining web applications using Hibernate, Spring and other related technologies.",
       "Worked under a faculty member at a coaching institute, assisting in developing and improving educational content and technical solutions.",
